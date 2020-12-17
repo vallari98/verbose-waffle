@@ -1,8 +1,10 @@
 class hello{
 
- public void abcd()
+  void abcd()
 
 {
+
    System.out.println("namaskar");
+
 }
 }
